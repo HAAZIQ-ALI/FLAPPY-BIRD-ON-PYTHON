@@ -1,0 +1,5 @@
+Firstly you will need to install pygame , you can do it by, pip install pygame  [type this in Cmd]
+
+
+after that open FLAPPY-BIRD.py , GO TO LINE 4 CHANGE THE FILE DIRECTORY TO WHERE YOU DOWNLOADED THE GAME,  FOR EXAMPLE-
+os.chdir("C:/Users/User/Desktop/flappy bird") THIS IF YOU DOWNLOADED THE FILE IN DESKTOP AND THIS IF YOU HAVE FILE ON DOWNLOADS FOLDER! os.chdir("C:/Users/User/Downloads/flappy bird")
